@@ -48,5 +48,12 @@ btnOrder.onclick = function() {
         info
     }
     const tripInfoJSON = JSON.stringify(tripInfo)
-    console.log(tripInfoJSON)
+    // console.log(tripInfoJSON)
+    fetch('http://localhost:3000').then(function(response) {
+        if (response.ok) {
+            return response.text()
+        }
+    }).then(function(text) {
+        console.log(text)
+    })
 }
