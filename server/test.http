@@ -31,4 +31,4 @@ Content-Type: application/json
 ###
 
 GET http://localhost:3000/api/trip
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjE5Nzc4Mjc0LCJleHAiOjE2MTk5NTEwNzR9.uCNGiat_xcFbkexjjTWbo85HfA-PIqiIjaU0aNGerIU
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjIxNjAzNTA0LCJleHAiOjE2MjE3NzYzMDR9.mKkZRbkvAOWpSZA0_78O08okTMxiKj0cldp-kLtszgQ

@@ -150,6 +150,8 @@ button:active {
     align-items: center;
     padding: 5rem;
     text-align: center;
+    min-height: 100vh;
+    height: auto;
 }
 
 .services {
